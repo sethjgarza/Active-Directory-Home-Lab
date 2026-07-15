@@ -39,3 +39,13 @@ Client Machine: Windows 11 Pro
 ## Screenshots
 
 Screenshots of the lab environment, Active Directory configuration, Group Policy settings, file sharing, and mapped drives are included in this repository.
+
+## Key Accomplishments
+
+- Deployed a Windows Server 2022 Domain Controller
+- Created and managed Active Directory users and groups
+- Configured Group Policy Objects (GPOs)
+- Implemented SMB file sharing and NTFS permissions
+- Configured mapped home drives
+- Joined Windows 11 clients to the domain
+- Troubleshot authentication and file-sharing issues
